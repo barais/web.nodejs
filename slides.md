@@ -22,9 +22,8 @@ transition: slide-left
 mdc: true
 ---
 
-# Présentation de NodeJS
 
-<div align="center"><img src="/image_26.jpg" width="70%"></div>
+<div align="center"><img src="/nodejs-logo.png" width="70%"></div>
 
 
 
